@@ -9,7 +9,7 @@ Available commands are :-
 ## Note⚠️
 Currently it can only generate template for node js with express as a framework. In future more frameworks, languages will be added.
 
-Also for windows you have to use git bash or bash emulating terminal environment
+***Also for windows*** you have to use git bash or bash emulating terminal environment
 
 ## This images are for reference
 
