@@ -4,10 +4,10 @@ This is a CLI tool which can be used for generating boilerplates for different f
 
 Available commands are :-
 
- - boilercli dockerize node --> This command is use to generate your node js template with express as a framework and necessary dockerfiles and docker compose file will be generated.
+ - boilercli dockerize node --> This command is use to generate your node js template and necessary dockerfiles and docker compose file will be generated.
 
 ## Note⚠️
-Currently it can only generate template for node js with express as a framework. In future more frameworks, languages will be added.
+Currently it can only generate template for node js. In future more frameworks, languages will be added.
 
 ***Also for windows*** you have to use git bash or bash emulating terminal environment
 
